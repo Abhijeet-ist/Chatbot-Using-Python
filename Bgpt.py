@@ -304,3 +304,4 @@ send_button.pack(side=tk.RIGHT, padx=10, pady=5)
 
 # Start the main event loop
 window.mainloop()
+print("Chatbot: Thank you for using the Bhagavad Gita GPT chatbot. Goodbye!")
